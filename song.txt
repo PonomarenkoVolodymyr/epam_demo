@@ -2,4 +2,5 @@ mu new song
 tralalal 
 new text
 ___
-changes wif pushing 
+Im lerning
+git! Yo yo yo!
